@@ -2,7 +2,7 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=k4ng00r&theme=light)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
-![Kangur medytujący w dojo](https://i.imgur.com/i9zHIN9.png)
+![Kangur medytujący w dojo](https://i.imgur.com/D02CWJg.png)
 
 ---
 
