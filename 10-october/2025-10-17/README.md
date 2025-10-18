@@ -27,10 +27,6 @@ Woke up with a familiar sting — not the booze, not the pills, but the loss. Au
 
 ---
 
-*(…you can append more kata entries as needed…)*
-
----
-
 ## 🧭 Summary
 **What I’ve learned:**  
 How to detect breaks in sequences, handle edge conditions in arrays, and refocus when the world around you still spins out of control.
