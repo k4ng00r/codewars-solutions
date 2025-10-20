@@ -71,4 +71,4 @@ Might wander to the fridge (though probably empty), might indulge in one more dr
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

@@ -64,4 +64,4 @@ Either tiptoe to the fridge (most likely empty) or hammer out more kata until my
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

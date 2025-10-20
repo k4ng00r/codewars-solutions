@@ -66,4 +66,4 @@ Either ransack the fridge (almost certainly empty) or dive into the next batch o
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

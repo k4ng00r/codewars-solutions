@@ -67,4 +67,4 @@ Either rummage through the fridge (definitely empty) or crack open more kata unt
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

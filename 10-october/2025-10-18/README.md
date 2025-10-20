@@ -60,4 +60,4 @@ Either raid the fridge (likely empty) or smash through the next batch of kata un
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

@@ -72,4 +72,4 @@ Likely raid the fridge (but spoiler: it’s still empty) or dive deeper into cod
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

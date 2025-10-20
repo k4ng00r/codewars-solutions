@@ -53,4 +53,4 @@ Either raid the fridge (even though it’s probably a graveyard) or keep smashin
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)

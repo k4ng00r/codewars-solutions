@@ -37,4 +37,4 @@ Either raid the fridge (pretty sure it’s empty) or hammer through more kata un
 ---
 
 ### 💸 Earnings from coding today
-**0**
+![Retro Zero](https://i.imgur.com/ekv435l.gif)
