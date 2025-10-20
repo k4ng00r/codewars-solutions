@@ -109,3 +109,8 @@ function basicOp(operation, value1, value2){
   }
 }
 ```
+
+---
+
+### 💸 My total earnings from coding (last update 2025-10-20)
+![Retro Zero](https://i.imgur.com/ekv435l.gif)
