@@ -1,3 +1,13 @@
+// BMI time. weight / height^2, like dividing my sins by squared hangover
+// therapist says “track your health,” I say “track my flights back to Melbourne”
+// Poznań drizzle outside, kettle screams, I calculate destiny with ** instead of hope
+// kurwa.
+// ranges: <=18.5 underweight, <=25 normal, <=30 overweight, >30 obese
+// I don’t tweak the rules, I just breathe chaos into the margins ( ͡° ͜ʖ ͡° )
+// chuj.
+// ASCII scale that judges me silently: [====|----]  ︻デ═一  ~
+// pass tests, drink water, pretend I’m fine
+
 function bmi(weight, height) {
   const bodyMassIndex = weight / height ** 2;
   
@@ -6,3 +16,6 @@ function bmi(weight, height) {
   else if (bodyMassIndex <= 30.0) return 'Overweight';
   else if (bodyMassIndex > 30) return 'Obese';
 }
+
+// if this prints “Normal” I buy a hotdog; if not, I buy two and call it science
+// tests are church, passing is communion, Żabka is confession. (╯°□°）╯︵ ┻━┻
