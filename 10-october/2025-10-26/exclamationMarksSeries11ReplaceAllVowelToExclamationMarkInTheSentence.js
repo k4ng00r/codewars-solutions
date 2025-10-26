@@ -8,3 +8,7 @@ const replace = s => s.replace(/[aeiou]/gi, '!'); // global + case-insensitive s
 
 // Morning mantra: replace, breathe, move. If only feelings had /gi.
 // Coffee at Blask, tram hissing, code shipped. Good enough to live with, good enough to leave.
+//
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
