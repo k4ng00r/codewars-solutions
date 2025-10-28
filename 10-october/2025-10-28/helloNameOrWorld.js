@@ -5,3 +5,7 @@
 // tests are church; this is the quiet amen
 
 const hello = name => `Hello, ${name ? name.charAt(0).toUpperCase() + name.slice(1).toLowerCase() : 'World'}!`; // tidy caps, tidy life
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
