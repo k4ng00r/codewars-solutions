@@ -10,3 +10,7 @@ const mango = (quantity, price) => (quantity - Math.floor(quantity / 3)) * price
 // I whisper “buy two, get one free” like a mantra, pretending this is budgeting.
 // Melbourne memory drifts in: sun, market stalls, sticky fingers, zero regrets.
 // Moral: when life groups things in threes, let it. Your bank balance will thank you.
+//
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
