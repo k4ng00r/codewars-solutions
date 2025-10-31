@@ -20,3 +20,7 @@ const reverse = string => string.split(' ').reverse().join(' ');
   Sydney boardwalk at dawn — gulls heckle, tide rewrites footprints in reverse.
   Code does the same to sentences. Different order, same truth. Calm returns. ლ(ಠ益ಠლ)
 */
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
