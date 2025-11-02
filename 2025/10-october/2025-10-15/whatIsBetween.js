@@ -12,3 +12,7 @@
 */
 
 const between = (a, b) => Array(b - a + 1).fill(0).map((_, i) => a + i);
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

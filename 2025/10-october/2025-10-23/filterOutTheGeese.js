@@ -16,3 +16,7 @@ const gooseFilter = birds => {
 // Poznań’s quiet now, except for the pigeons and my thoughts
 // I keep thinking if life had a gooseFilter(), I’d still be in Melbourne,
 // somewhere by the Yarra, drunk but peaceful, coding on a borrowed laptop
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

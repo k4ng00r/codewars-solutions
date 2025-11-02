@@ -12,3 +12,7 @@ Fast, clean, doesn’t care how big `n` is — works for billions, works for bro
 const oddCount = (n) => Math.floor(n / 2); // divide by 2, chuck the remainder in the bin — no mercy for fractions
 // this gives ya how many odds hide below `n`, just chillin’ there being weird
 // yeah, that’s literally it — single line, no heartbreak, no loops, no love
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

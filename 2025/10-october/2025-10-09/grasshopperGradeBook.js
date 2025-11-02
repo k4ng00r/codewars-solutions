@@ -11,3 +11,7 @@ function getGrade (s1, s2, s3) {
   else if (score >= 60 && score < 70) return 'D';    // coffee and consequences
   else if (score >= 0 && score < 60) return 'F';     // night met morning; morning kept the receipt (╯°□°）╯︵ ┻━┻
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

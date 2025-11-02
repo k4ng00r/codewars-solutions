@@ -12,3 +12,7 @@ function addFive(num) {
 // unit test in my head: addFive(7) === 12, addFive(0) === 5, addFive(-5) === 0
 // if this fails, I’ll do push-ups. singular. one push-up.
 // ╭(ʘ̆‿ʘ̆)╮  ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻  ┬─┬ ノ( °□°ノ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

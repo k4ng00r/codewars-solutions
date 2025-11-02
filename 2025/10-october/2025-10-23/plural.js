@@ -10,3 +10,7 @@ const plural = n => !(n === 1);
 // one feeling at a time — singular. manageable. 
 // but nah, humans come with arrays full of plurals — regrets, debts, missed flights.
 // at least JavaScript keeps it simple.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

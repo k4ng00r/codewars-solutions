@@ -17,3 +17,7 @@ const peopleWithAgeDrink = old => `drink ${old > 20 ? 'whisky' : old > 17 ? 'bee
 // old > 18 -> beer: somewhere between freedom and bankruptcy
 // old > 14 -> coke: because caffeine is the training wheels of addiction
 // else -> toddy: warm, innocent, and utterly doomed once puberty hits
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

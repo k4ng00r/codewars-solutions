@@ -17,3 +17,7 @@ const saleHotdogs = n => n < 5 ? n * 100 : n < 10 ? n * 95 : n * 90;
 // minimalism: one line, three moods. cheaper with quantity, like dignity at 3 a.m.
 // if tests fail, I’ll eat the evidence. if they pass, I’ll eat the hotdogs.
 // Żabka mirage in the distance. I run. wallet cries. stomach sings. life continues. ( ͡° ͜ʖ ͡° )
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

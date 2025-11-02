@@ -30,3 +30,7 @@ function countPositivesSumNegatives(input) {
 // ☠ the negatives — missed flights, broken bottles, cold nights
 // ⚙️ and yet, somehow, the loop keeps running.
 // 🐾 end.log
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

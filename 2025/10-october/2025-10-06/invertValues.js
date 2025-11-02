@@ -15,3 +15,7 @@ function invert(array) {
 // didn’t work. still here. still coding.
 // but hey, every -1 is a step closer to 0, right?
 // and maybe one day I’ll invert far enough to wake up back under the Aussie sun
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

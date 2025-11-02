@@ -3,3 +3,7 @@
 // Mini-timeline: keys jingle → door swings → two words decide the whole vibe.
 
 const greet = (name, owner) => name === owner ? 'Hello boss' : 'Hello guest';
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

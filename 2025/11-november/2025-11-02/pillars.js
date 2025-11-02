@@ -11,3 +11,7 @@ function pillars(numPill, dist, width) {
 }
 // Poznań drizzle taps the window, Melbourne sun plays in my head; math does the legwork.
 // Żabka zamknięta znowu, k***a, więc liczę słupki zamiast kupić chipsy ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

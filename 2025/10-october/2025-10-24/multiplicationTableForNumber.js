@@ -21,3 +21,7 @@ const multiTable = number =>
 // minimal, brutal, true. ten truths stacked like debts.
 // running tests is church now; passing them is communion.
 // one day I’ll print “1 * flight = Melbourne” and it won’t be a joke. ( ͡° ͜ʖ ͡° )
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

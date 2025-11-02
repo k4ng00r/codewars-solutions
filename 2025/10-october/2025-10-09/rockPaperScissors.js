@@ -19,3 +19,7 @@ const rps = (p1, p2) => {
 // Mini-timeline:
 // Evening: bold declarations. Night: frantic hand signs. Morning: someone owes breakfast.
 // Code remembers who actually won when stories start to drift.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

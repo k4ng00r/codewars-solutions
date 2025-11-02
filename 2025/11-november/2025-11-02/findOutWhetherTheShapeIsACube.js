@@ -5,3 +5,7 @@ const cubeChecker = (volume, side) => volume <= 0 || side <=0 ? false : volume =
 // JS note: side is guaranteed integer per spec; if volume matches side**3, we’re golden
 // equal sides -> true; everything else -> false, like my bank balance after rent
 // Żabka closed again, k***a, so I’m verifying cubes instead of buying snacks ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

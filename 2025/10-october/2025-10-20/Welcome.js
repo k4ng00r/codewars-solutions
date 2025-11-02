@@ -73,3 +73,7 @@ const db = {
 
 But sure — leave it. It's quaint, like a drunk kangaroo trying to code. Works perfectly for the kata.
 */
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -20,3 +20,7 @@ function points(games) {
   // final whistle: hand the tally to the league table and order something warm
   return result;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

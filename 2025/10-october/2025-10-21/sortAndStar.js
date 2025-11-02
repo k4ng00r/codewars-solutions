@@ -20,3 +20,7 @@ const twoSort = s => s.sort()[0].split('').join('***');
 // [0] — the first in line, the lucky bastard who gets to shine
 // split('').join('***') — break it apart, stitch it together with fireworks
 // final product: fancy string surgery with glitter and trauma
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

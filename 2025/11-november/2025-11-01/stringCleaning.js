@@ -6,3 +6,7 @@ const stringClean = s => s.replace(/\p{Nd}/gu, '');
 
 // flashback: Poznań drizzle, caffeine low, text full of 7s — delete, delete, delete
 // Żabka’s closed again, k***a, so I’m cleaning strings instead of buying snacks ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -20,3 +20,7 @@ function digitize(n) {
   // split, reverse, map — the holy trinity of pretending you’ve got your life together.
   return n.toString().split('').reverse().map(Number);
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

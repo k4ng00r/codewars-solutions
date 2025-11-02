@@ -17,3 +17,7 @@ function findAverage(array) {
 // once I had a girl in Melbourne who said I was too intense
 // now I average arrays instead of relationships
 // hangover mathematics — always returning 0 when the bottle’s empty
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

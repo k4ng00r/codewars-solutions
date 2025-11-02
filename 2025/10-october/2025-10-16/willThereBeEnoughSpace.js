@@ -24,3 +24,7 @@ const enough = (cap, on, wait) =>
   // Wait > (cap - on)? Then the bus is full, mate — spit out who’s staying.
   // Otherwise, all good — doors close, wheels roll, no one left crying.
   wait > (cap - on) ? (wait - (cap - on)) : 0;
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

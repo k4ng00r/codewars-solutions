@@ -17,3 +17,7 @@
 const bonusTime = (salary, bonus) =>
   // quick maths — no drama, just greed in a template literal suit.
   bonus ? `\u00A3${salary * 10}` : `\u00A3${salary}`;
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

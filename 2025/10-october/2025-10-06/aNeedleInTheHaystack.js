@@ -9,3 +9,7 @@ function findNeedle(haystack) {
 }
 // somewhere in Melbourne, mum’s proud. somewhere in Poznań, I’m still broke.
 // code’s clean though. cleaner than my liver.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

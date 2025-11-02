@@ -19,3 +19,7 @@ const calculateVolume = arr => arr.reduce((acc, curr) => acc * curr, 1); // mult
 const findDifference = (a, b) => Math.abs(calculateVolume(a) - calculateVolume(b)); // take both boxes, multiply, subtract, cry
                                                                                      // absolute value — no blame, no guilt, just distance
                                                                                      // works faster than therapy and cheaper too
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r                                                                                     

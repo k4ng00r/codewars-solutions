@@ -23,3 +23,7 @@ function finalGrade (exam, projects) {
   else if (exam > 50 && projects >= 2) return 75; // tried, failed, still passed — classic.
   else return 0;                                  // dead last. story of my youth.
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

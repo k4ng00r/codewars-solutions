@@ -28,3 +28,7 @@ function removeChar(str){
   // it’s neat, it’s clean, it works... whatever, next task.
   else return str.slice(1, -1);
 };
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

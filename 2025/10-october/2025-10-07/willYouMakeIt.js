@@ -15,3 +15,7 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => (mpg * fuelLeft >= distanceT
 // Żabka.
 // one day I’ll have enough cash to fill the tank without doing mental gymnastics
 // until then: boolean salvation, baby. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

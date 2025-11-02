@@ -22,3 +22,7 @@ function whatday(num) {
       return 'Wrong, please enter a number between 1 and 7'; // if time gets weird, we set it straight
   }
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

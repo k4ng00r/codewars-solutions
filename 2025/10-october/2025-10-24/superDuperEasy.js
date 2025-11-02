@@ -15,3 +15,7 @@ const problem = x => (typeof x === 'string' || x instanceof String) ? 'Error' : 
 // minimal API: give me a number, I give you fuel money; give me a string, I give you side-eye
 // somewhere in Melbourne a younger me would’ve made this a class with 12 methods; now I like sleep
 // end of sermon. go run the tests. ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

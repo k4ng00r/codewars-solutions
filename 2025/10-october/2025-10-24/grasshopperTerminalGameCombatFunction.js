@@ -11,3 +11,7 @@ const combat = (health, damage) => damage >= health ? 0 : health - damage;
 
 // minimal, brutal, correct. zero is rock bottom, not negative purgatory.
 // pass tests, sip water, pretend everything’s fine. ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

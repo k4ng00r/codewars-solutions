@@ -18,3 +18,7 @@ const fixTheMeerkat = arr => arr.reverse();
 // reverse() — like life, just spin it around and pretend it’s progress
 // tail becomes head, head becomes tail, chaos becomes order
 // pure, dumb magic — and I respect that
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

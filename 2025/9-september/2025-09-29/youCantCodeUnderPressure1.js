@@ -28,3 +28,7 @@ function doubleInteger(i) {
   // i * 2 — math, baby. The universal language. Even drunk I get this one right.
   return i * 2;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

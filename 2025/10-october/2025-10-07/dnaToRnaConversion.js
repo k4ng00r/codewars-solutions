@@ -12,3 +12,7 @@ const DNAtoRNA = dna => dna.replace(/T/g, 'U');
 // tested it once on a napkin behind Żabka. worked fine. or maybe I was just high.
 // anyway, cheers to science. and to whoever invented regex.
 // // and chuj, właśnie wypaliłem ostatniego peta, a Żabka już zamknięta ( ͡° ʖ̯ ͡°)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

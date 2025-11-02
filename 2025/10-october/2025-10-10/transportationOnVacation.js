@@ -8,3 +8,7 @@ const rentalCarCost = d => (d >= 7) ? (d * 40 - 50) : (d >= 3) ? (d * 40 - 20) :
 // Flashback from a rainy A2: counted days on my fingers outside a late-night shop,
 // nudged the plan to day seven just to see the total blink lower.
 // Sometimes the cheapest road is the longer one, and that’s half the adventure. ( ͡° ͜ʖ ͡°)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

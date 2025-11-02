@@ -18,3 +18,7 @@ function correctTail(body, tail) {
 // - substr(start) grabs from start to the end; here start = body.length - tail.length
 // - if the kata ever insists on exactly ONE letter, this still works; you just pass a one-letter tail
 // - could be a one-liner, but we’re not rewrapping the parcel — you said “no code changes”
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

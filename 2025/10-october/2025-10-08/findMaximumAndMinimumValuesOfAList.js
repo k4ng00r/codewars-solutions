@@ -13,3 +13,7 @@ const max = list => Math.max(...list);
 // skull test: [4,6,2,1,9,63,-134,566] → min=-134, max=566
 // if tests fail: astrology. if they pass: Żabka run. chuj.
 // (╯°□°）╯︵ ┻━┻    ┬─┬ ノ( º _ ºノ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

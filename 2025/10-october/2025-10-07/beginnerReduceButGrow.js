@@ -13,3 +13,7 @@ const grow = x => x.reduce((acc, curr) => acc * curr, 1);
 // ✧ [1,2,3,4] becomes 24, just like 4 nights in Poznań became one endless morning
 // in mathematics we trust, because in people we can’t
 // ⛧ code like it’s prayer, run it like confession, watch it return 24 — divine symmetry
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

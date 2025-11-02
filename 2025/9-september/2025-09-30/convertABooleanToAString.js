@@ -26,3 +26,7 @@ function booleanToString(b){
   // like saying “I’m fine” when you’re not.  
   return "" + b;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

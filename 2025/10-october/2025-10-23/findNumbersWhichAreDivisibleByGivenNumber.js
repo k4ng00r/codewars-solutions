@@ -15,3 +15,7 @@ const divisibleBy = (numbers, divisor) =>
 
 // sometimes I look at arrays like bar crowds — all those numbers lined up
 // and me, trying to find who fits, who stays, who walks away when I’m broke
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -42,3 +42,7 @@ function equal5(){
 
 // audit passed: five ways to 100 without touching the wiring
 // Żabka’s closed again, k***a, so I’m celebrating with comments instead of snacks ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

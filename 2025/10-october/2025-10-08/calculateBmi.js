@@ -19,3 +19,7 @@ function bmi(weight, height) {
 
 // if this prints “Normal” I buy a hotdog; if not, I buy two and call it science
 // tests are church, passing is communion, Żabka is confession. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

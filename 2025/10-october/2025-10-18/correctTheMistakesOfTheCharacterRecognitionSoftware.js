@@ -23,3 +23,7 @@ const correct = string =>
   // 0 becomes O, 1 becomes I, 5 becomes S — simple, pure, caffeine-proof.  
   // clean enough to pass tests, messy enough to feel like my handwriting.
   string.replace(/[015]/g, c => ({ '0': 'O', '1': 'I', '5': 'S' }[c]));
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

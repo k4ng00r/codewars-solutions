@@ -12,3 +12,7 @@ const fakeBin = x => x.split('').map(el => el >= 5 ? '1' : '0').join('');
 // if tests pass, I buy a hotdog and pretend it’s victory
 // if they fail, I blame the strobe lights and write poetry in binary. ( ͡° ͜ʖ ͡° )
 // ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

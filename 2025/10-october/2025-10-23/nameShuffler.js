@@ -9,3 +9,7 @@ const nameShuffler = str => str.split(' ').reverse().join(' ');
 // now I hear it in my head when Żabka opens at seven and I’m still awake.
 
 // code’s clean. I’m not. but both compile.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

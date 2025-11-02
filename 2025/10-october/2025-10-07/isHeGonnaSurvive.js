@@ -10,3 +10,7 @@ const hero = (bullets, dragons) => bullets >= 2 * dragons;
 
 // no glory, no princess, just me whispering: “please compile”  
 // and if it returns true, I call that victory.  
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -16,3 +16,7 @@ const pipeFix = numbers =>
 // then he charged me 400 złotych and left. (╯°□°）╯︵ ┻━┻
 
 // anyway, pipes fixed, souls not. that’s coding for you.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

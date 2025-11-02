@@ -12,3 +12,7 @@ function smash (words) {
 // in Poland, I smash bottles, not arrays. but both make noise.
 // and when I join all my broken thoughts, I still end up with one sad, beautiful sentence:
 // “hello world this is great” — the most tragic lie ever written in code.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -11,3 +11,7 @@ const getRealFloor = n => {
 // no king, no sense, no thirteenth floor
 // Europe: 1 == ground, America: ground == who even knows
 // sometimes I wish my life had a getRealFloor() too — just skip a few bad levels and keep climbing
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

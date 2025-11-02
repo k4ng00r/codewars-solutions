@@ -6,3 +6,7 @@ const sumOfDifferences = arr =>
     : Math.max(...arr) - Math.min(...arr); // telescoping like a budget camping chair at Malta in Poznań
 // whisper: sorting is optional, the middle bits nuke each other. maths said so.
 // note: if someone throws you a comically large array, ditch the spread to avoid a runtime tantrum
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

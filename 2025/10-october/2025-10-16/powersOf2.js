@@ -27,3 +27,7 @@ const powersOfTwo = (n) =>
     // raise 2 to the power of i, because... exponents, I guess?  
     // 2 ** i — clean, sharp, mathematical, like vodka on an empty stomach.
     .map((_, i) => 2 ** i);
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

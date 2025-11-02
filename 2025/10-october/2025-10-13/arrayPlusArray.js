@@ -7,3 +7,7 @@
 const arrayPlusArray = (arr1, arr2) => arr1.concat(arr2).reduce((acc, curr) => acc + curr, 0);
 
 // k***a, it even works on negatives; maths doesn’t care about your mood (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

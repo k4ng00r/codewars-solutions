@@ -6,3 +6,7 @@ const getChar = c => String.fromCharCode(c)
 // 65 -> 'A' ... 97 -> 'a' ... 48 -> '0' ... easy, clean, like my therapist wishes my liver was
 // one line of code, one step closer to that ticket back to Sydney
 // (╯°□°）╯︵ ┻━┻ why does this even work so perfectly, who wrote this language drunker than me?
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

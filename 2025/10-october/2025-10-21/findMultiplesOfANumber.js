@@ -21,3 +21,7 @@ const findMultiples = (integer, limit) =>
 
 // yeah, that’s it. quick, sharp, efficient — like cracking open a Żubr after work.
 // be cool, be Kangoooor.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -15,3 +15,7 @@
 const reverseList = list => 
   // hit .reverse() and watch the past crawl back like your ex after a payday.
   list.reverse();
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

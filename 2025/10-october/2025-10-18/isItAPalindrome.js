@@ -23,3 +23,7 @@ const isPalindrome = x =>
   // reverse it — obvious, but still feels poetic, doesn’t it?  
   // join it back — glue the pieces together and hope no one notices the cracks.  
   x.split('').reverse().join('').toLowerCase();
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

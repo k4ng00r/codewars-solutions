@@ -12,3 +12,7 @@ const setAlarm = (employed, vacation) => (employed && !vacation);
 // - expects booleans; if someone passes 1/0 or "yes"/"no", they deserve the 6 a.m. consequences
 // - short-circuits nicely; no need for parentheses, but they don’t hurt
 // - keep it boring; boring code is reliable, unlike budget coffee or management promises
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -25,3 +25,7 @@ function past(h, m, s){
   // and there you go — a neat little number telling you how long it’s been
   // since another meaningless midnight slipped away
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

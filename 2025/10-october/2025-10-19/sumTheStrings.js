@@ -16,3 +16,7 @@
 const sumStr = (a, b) => 
   // just two drunks trying to make sense of the tab.
   `${(parseInt(a) || 0) + (parseInt(b) || 0)}`;
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

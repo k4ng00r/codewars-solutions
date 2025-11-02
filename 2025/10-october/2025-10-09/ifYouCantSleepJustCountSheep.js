@@ -15,3 +15,7 @@ const countSheep = num => {
   // next attempt: mint tea, thin blanket, one more quiet lap around the paddock. ლ(ಠ益ಠლ)
   return resultString;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

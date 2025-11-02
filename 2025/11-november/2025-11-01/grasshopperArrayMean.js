@@ -3,3 +3,7 @@
 // Mini-timeline: gather → sum → divide → breathe; Melbourne morning feels closer already.
 const findAverage = nums => nums.reduce((curr, acc) => curr + acc) / nums.length;
 // Footnote from the bar napkin: if the list was a long night, this is the quiet, honest middle. ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

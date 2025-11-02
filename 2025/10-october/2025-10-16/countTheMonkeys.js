@@ -24,3 +24,7 @@ const monkeyCount = (n) =>
     // i + 1 because kid’s gotta start from one, not zero —  
     // zero’s for accountants and people who never lived under a bridge.
     .map((_, i) => i + 1);
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

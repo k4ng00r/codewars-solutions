@@ -21,3 +21,7 @@ function simpleMultiplication(number) {
   return (number % 2) ? (number * 9) : (number * 8); // ternary voodoo — looks fancy, does nothing special.
                                                      // yeah yeah, multiply, return, profit, repeat. life’s just loops, mate.
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
