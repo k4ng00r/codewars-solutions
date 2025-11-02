@@ -92,3 +92,10 @@ I might walk down to the water by Warta River, check out some graffiti-tagged wa
 
 ### 💸 Earnings from coding today
 ![Retro Zero](https://i.imgur.com/ekv435l.gif)
+
+---
+
+### ☕ Tip Jar
+[![Buy me a coffee](https://i1.kwejk.pl/k/obrazki/2020/02/sxyMDYk5Pa0xtkTN.jpg)](https://buymeacoffee.com/k4ng00r)
+
+If today’s green ticks saved your sanity, fuel the next sprint: **buymeacoffee.com/k4ng00r**.
