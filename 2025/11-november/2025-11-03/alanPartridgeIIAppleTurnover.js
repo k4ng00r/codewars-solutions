@@ -11,3 +11,7 @@ const apple = x =>
                 : `Help yourself to a honeycomb Yorkie for the glovebox.`;
 
 // curtain call: Alan would weaponize dessert, I weaponize ternaries. everyone copes somehow ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

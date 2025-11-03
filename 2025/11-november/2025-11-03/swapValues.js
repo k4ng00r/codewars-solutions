@@ -12,3 +12,7 @@ function swapValues() {
 // no souvenirs returned — the deed is done in place. check the array and pretend we were never here.
 // somewhere a jukebox coughs, someone laughs too loud, and I swear the moon winked. f*** it, good enough. (╯°□°）╯︵ ┻━┻
 // pause. flashback. tram bells, cheap neon, a promise to be better tomorrow. till then: swap, sip, survive. (ง'̀-'́)ง
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

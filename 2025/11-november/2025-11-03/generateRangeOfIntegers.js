@@ -16,3 +16,7 @@ const generateRange = (start, stop, step) => {
 // generateRange(1, 10, 1)  -> [1,2,3,4,5,6,7,8,9,10]
 // generateRange(-10, 1, 1) -> [-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1]
 // generateRange(1, 15, 20) -> [1]  // started late, still counts
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

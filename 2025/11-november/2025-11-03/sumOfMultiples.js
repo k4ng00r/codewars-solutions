@@ -16,3 +16,7 @@ const sumMul = (n, m) =>
 // I loved her, she loved chaos; I loved chaos too, which explains the hangover and this function
 // tomorrow I’ll be kinder. tonight I’m just counting, and it counts back.
 // end of story, start of healing, same old keyboard, same old heartbeat. (ง'̀-'́)ง
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
