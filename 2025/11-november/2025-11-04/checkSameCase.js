@@ -25,3 +25,7 @@ const sameCase = (a, b) => {
 // pause. flashback. Poznań rain taps code like a metronome; Melbourne sun heckles from memory.
 // the logic looks like it slept in a bus shelter, but it still shows up and does the job. I can respect that.
 // tomorrow I'll refactor. tonight it’s “ship it and breathe.” f*** it, we’re good ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

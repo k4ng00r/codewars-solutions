@@ -9,3 +9,7 @@ const include = (arr, item) => arr.includes(item);
 // - strict equality under the hood; '2' isn’t 2, memories aren’t facts
 // - NaN? includes handles it properly these days. small mercy.
 // - empty list means empty answer. some nights are like that.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -11,3 +11,7 @@ const formatMoney = amount => `$${Number.parseFloat(amount).toFixed(2)}`;
 // - 39.999   -> $40.00  (rounds like a bartender at last call)
 // - -2       -> $-2.00  (not pretty, but honest)
 // - if someone sneaks NaN/Infinity past the gate: "$NaN"/"$Infinity" — not my fault, k***a.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

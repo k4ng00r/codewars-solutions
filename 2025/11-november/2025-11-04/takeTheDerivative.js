@@ -10,3 +10,7 @@ const derive = (coefficient, exponent) => `${coefficient * exponent}x^${exponent
 // derive(7, 8)  -> "56x^7"
 // derive(5, 9)  -> "45x^8"
 // derive(3, 2)  -> "6x^1"  // yes, we show the ^1 like a badge of honour
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
