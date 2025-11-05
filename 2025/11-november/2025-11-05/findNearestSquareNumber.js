@@ -15,3 +15,7 @@ const nearestSq = n => {
 
 // I’ve seen nights flatter than a square, mornings sharper than a root; still, this little thing finds home.
 // one more tiny win for the ticket jar; one less excuse for the hangover. f*** it, ship it. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

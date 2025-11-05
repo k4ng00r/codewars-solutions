@@ -9,3 +9,7 @@ function twoDecimalPlaces(n) {
 // whispers to future-me:
 // - Math.round goes to nearest (half up). good enough for weather chats and coffee prices.
 // - if someone brings exotic floats to the party, I’ll bring aspirin and move on.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

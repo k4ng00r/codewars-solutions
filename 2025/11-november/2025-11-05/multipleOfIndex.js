@@ -10,3 +10,7 @@ const multipleOfIndex = arr =>
 // [68, -1, 1, -7, 10, 10] -> [-1, 10]      // math flexing in a leather jacket
 // ...and 0 at index 0? it gets a VIP pass. everything else earns it.
 // good enough to ship; tomorrow I’ll be perfect, tonight I’m done. f*** it. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

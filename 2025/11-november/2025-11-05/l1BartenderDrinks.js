@@ -15,3 +15,7 @@ const getDrinkByProfession = param => {
   }
 }
 // some nights you get Cristal, some nights you get rain; either way, we close the tab and keep moving. k***a. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
