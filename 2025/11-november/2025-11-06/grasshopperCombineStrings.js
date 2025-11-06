@@ -7,3 +7,7 @@ const combineNames = (firstN, lastN) => firstN + ' ' + lastN; // two halves, one
 
 // pause. flashback. boardwalk gulls heckling, someone calls me twice and I turn both times.
 // curtain down, code stays up. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

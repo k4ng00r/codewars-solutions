@@ -29,3 +29,7 @@ function subt(a,b){
 
 // pause. flashback. beach wind, cheap guitar, someone laughs; I promise to write softer code.
 // promise kept. it runs. I’m happy. the night forgives me a little. k***a.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

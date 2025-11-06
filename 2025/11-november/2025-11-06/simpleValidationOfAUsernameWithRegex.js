@@ -7,3 +7,7 @@ function validateUsr(username) {
   const res = /^[a-z0-9_]{4,16}$/.test(username); // whole string must match, not just a polite fragment
   return res;                                     // true for clean IDs, false for chaos
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

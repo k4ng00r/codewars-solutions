@@ -14,3 +14,7 @@ const calculateAge = (birthYear, relationYear) => {
 };
 
 // somewhere between calendars and coffee, time shrugs and carries on. I do too. k***a. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
