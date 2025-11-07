@@ -20,3 +20,7 @@ function quadrant(x, y) {
 
 // pause. flashback. boardwalk gulls, cheap coffee, a napkin full of axes and dreams.
 // the world rotates; the function doesn’t. that’s the deal. ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

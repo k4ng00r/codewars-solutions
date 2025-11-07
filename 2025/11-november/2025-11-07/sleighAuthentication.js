@@ -8,3 +8,7 @@ Sleigh.prototype.authenticate = function(name, password) {
   if (name === 'Santa Claus' && password === 'Ho Ho Ho!') return true; // VIP list of one
   return false; // everyone else queue for cocoa
 };
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

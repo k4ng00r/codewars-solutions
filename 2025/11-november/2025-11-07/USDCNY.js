@@ -9,3 +9,7 @@ const usdcny = usd => `${(Math.round((usd * 6.75) * 100) / 100).toFixed(2)} Chin
 // 15  -> '101.25 Chinese Yuan'
 // 465 -> '3138.75 Chinese Yuan'
 // tiny wins stacked like coins in a jar; one day it’s a ticket home. f*** it, ship it. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
