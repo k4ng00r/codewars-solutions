@@ -12,3 +12,7 @@ function buildString(...template){
 // buildString('cheese', 'onions', 'tomatoes') -> "I like cheese, onions, tomatoes!"
 // buildString('silence')                      -> "I like silence!"
 // alright, I’m oddly proud of this. don’t tell anyone. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
