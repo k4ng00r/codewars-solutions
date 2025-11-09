@@ -10,3 +10,7 @@ const differenceInAges = ages => {
 
 // note from the roo: spread’s fine for kata-sized arrays; if your clan is a small nation, bring a loop
 // small win in the jar, ticket dream a millimetre closer. f*** it, ship it.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

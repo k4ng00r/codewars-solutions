@@ -16,3 +16,7 @@ class Ghost {
 // new Ghost().color -> "white"|"yellow"|"purple"|"red"
 // if it’s purple, it judges your variable names; if it’s red, run faster than your past
 // curtain drop. the night nods. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

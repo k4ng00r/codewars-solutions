@@ -9,3 +9,7 @@ const lowercaseCount = str => str.match(/[a-z]/g) ? str.match(/[a-z]/g).length :
 // bonus whisper from a tired roo:
 // calling match twice is like ordering two coffees and drinking one; fine for katas, not for marathons.
 // but it passes, it purrs, and I’m not rewriting the universe tonight. f*** it, ship it ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

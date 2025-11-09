@@ -11,3 +11,7 @@ const spEng = sentence => sentence.toLowerCase().includes('english');
 // "abcnEglishsef"  -> false // scrambled like my life at 3 a.m.
 // "eNglisH"        -> true  // cases do yoga, we don’t care
 // "eng lish"       -> false // spaces break the spell, mate ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
