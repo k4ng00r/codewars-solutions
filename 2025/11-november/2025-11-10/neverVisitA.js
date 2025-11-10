@@ -117,3 +117,7 @@ const subtractSum = n => {
 
 // I’ve seen nights that felt like recursion: same streets, smaller numbers, and eventually… apples.
 // good enough. tests pass. hangover negotiates a ceasefire. f*** it, ship it (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -9,3 +9,7 @@ const stairsIn20 = s => 20 * s.flat().reduce((acc, curr) => acc + curr, 0);
 // - reduce stacks every step like ticket stubs after a long tour
 // - the 20 is hope with a calculator
 // - someday we’ll rest; today we estimate and keep moving ლ(ಠ益ಠლ)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

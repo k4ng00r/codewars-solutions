@@ -8,3 +8,7 @@ const MILE = 1.609344;              // kilometres in one mile
 
 const converter = mpg => mpg * (MILE / IMPERIAL_GALLON); // pure ratio magic → kpl
 // example: converter(30) ≈ 30 * (1.609344 / 4.54609188) ≈ 10.62 kpl
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
