@@ -10,3 +10,7 @@ const toCsvText = array => array.map(String).join('\n');
 
 // P.S. if a row’s empty, you get a blank line — like a breath between choruses.
 // P.P.S. if anyone asks why it works, say “art.” If they push, say “toString.” If they keep pushing, run. f*** it. (ง'̀-'́)ง
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
