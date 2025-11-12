@@ -23,3 +23,7 @@ class Woman extends Human {} // same toolkit, better patch notes
 
 // pause. flashback. river wind, warm light, two silhouettes, brand-new problems.
 // code compiles, life complicates, and somewhere a serpent is practicing sales pitches. k***a.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

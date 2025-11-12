@@ -19,3 +19,7 @@ function rainAmount(mm) {
 // - mm is forecast rainfall; 40 is the daily thirst target
 // - outputs are plain strings because the houseplant can’t read JSON
 // - tomorrow we try not to overthink it. today it passes tests. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

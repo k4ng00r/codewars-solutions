@@ -5,3 +5,7 @@
 // tiny win goes in the jar; one day it’s a ticket home. k***a.
 
 const shortenToDate = longDate => longDate.split(',')[0];
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

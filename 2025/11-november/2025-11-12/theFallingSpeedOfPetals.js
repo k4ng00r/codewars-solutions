@@ -3,3 +3,7 @@
 // otherwise time = distance / speed, easy like a quiet morning in Melbourne, not like April in Poznań ( ͡° ͜ʖ ͡°)
 
 const sakuraFall = v => v > 0 ? 400 / v : 0;
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
