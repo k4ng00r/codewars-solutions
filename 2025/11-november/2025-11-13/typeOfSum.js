@@ -12,3 +12,7 @@ const typeOfSum = (a, b) => typeof (a + b);
 //  "2" + 3      -> "string"  // coercion, you slippery legend
 //  true + false -> "number"  // 1 + 0 = 1, because of course
 // anyway: ask typeof after you add, tell the truth, go to bed. k***a.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
