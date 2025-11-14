@@ -26,3 +26,7 @@ function howManydays(month){
 
 // pause. flashback. tram bell, lukewarm coffee, a promise to write simpler code.
 // this is that promise. it passes, it purrs, and I’m going to sleep before I jinx it. k***a.
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -13,3 +13,7 @@ function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin) {
 
 // flashback: Melbourne water warm, gulls heckling, heart doing drum & bass.
 // I swam like an apology and counted like a sinner. It worked. This does too. (╯°□°）╯︵ ┻━┻
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

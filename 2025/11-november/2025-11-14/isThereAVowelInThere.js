@@ -23,3 +23,7 @@ const isVow = a => a.map(el => isVowel(el));
 
 // pause. flashback. ferry wind, neon reflections, a promise to keep things simple.
 // kept. it passes. small win in the jar. ( ͡° ͜ʖ ͡°)
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
