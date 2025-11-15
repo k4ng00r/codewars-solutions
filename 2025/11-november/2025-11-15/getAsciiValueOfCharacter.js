@@ -9,3 +9,7 @@ function getASCII(c){
   // now: Poznań, kaloryfer stuka jak dysk twardy z 2003 i ja liczę bajty, żeby zarobić na bilet powrotny.
   return code; // send the number back to the kata gods and hope they approve (ง'̀-'́)ง
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

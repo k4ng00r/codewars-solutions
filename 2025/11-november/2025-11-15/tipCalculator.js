@@ -27,3 +27,7 @@ function calculateTip(amount, rating) {
   // flashback: splitting tips after a shift, everyone arguing, me just calculating in my head instead of touching real money
   // now I write functions like this hoping one day they buy a one-way to Melbourne (ง'̀-'́)ง
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

@@ -9,3 +9,7 @@ function sixToast(num) {
   // result is always positive: code doesn't do drama, it just tells you how wrong you were
   // flashback: burned toast in a tiny Poznań kitchen, late JS tutorial playing, me pretending this is "the grind"
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
