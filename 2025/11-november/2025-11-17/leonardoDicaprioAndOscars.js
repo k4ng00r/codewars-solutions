@@ -17,3 +17,7 @@ function leo(oscar){
   // like re-running tests after they passed, just to feel something again (╯°□°）╯︵ ┻━┻
   if (oscar > 88) return "Leo got one already!";
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

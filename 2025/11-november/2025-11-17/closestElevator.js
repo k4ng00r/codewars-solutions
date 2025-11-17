@@ -16,3 +16,7 @@ function elevator(left, right, call){
   return diffLeft < diffRight ? 'left' : 'right';
   // if this ever returns "stairs", I’ve snapped and gone full monk mode (╯°□°）╯︵ ┻━┻
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
