@@ -21,3 +21,7 @@ const validateHello = greetings => {
   // if we get here: either spam, a scam, or someone who said "sup" instead of "hola"
   return false;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
