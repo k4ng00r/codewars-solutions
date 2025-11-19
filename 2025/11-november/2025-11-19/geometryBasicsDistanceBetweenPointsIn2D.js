@@ -11,3 +11,7 @@ function distanceBetweenPoints(a, b) {
   // (1/2) power is the square root in a fancy jacket
   // result: straight-line distance, no detours, unlike your life path so far (╯°□°）╯︵ ┻━┻
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
