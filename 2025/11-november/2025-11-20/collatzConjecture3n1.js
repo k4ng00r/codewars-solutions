@@ -27,3 +27,7 @@ const hotpo = function(n) {
   // and I’m buying that one-way ticket home off your prize money (ง'̀-'́)ง
   return counter;
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r

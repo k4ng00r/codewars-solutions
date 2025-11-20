@@ -18,3 +18,7 @@ function guessBlue(blueStart, redStart, bluePulled, redPulled) {
   // if this spits out 0.6, that’s 60% odds you’re not completely doomed
   // same odds I give myself of getting back to Melbourne before turning into permanent Poznań furniture (╯°□°）╯︵ ┻━┻
 }
+
+// Havin' fun mate? Make me have fun as well.
+// I know the page's called Buy Me a Coffee, but I won't lie.
+// Buy me a beer: https://buymeacoffee.com/k4ng00r
